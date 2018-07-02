@@ -1,0 +1,13 @@
+Hello there,
+
+Hope you are doing well. I have asked the professor for an extension for this homework and he agreed. You can contact him if you need to verify.
+
+Actually, let me tell you briefly about why I have asked extension. Due to a health condition, I haven't been able to sleep at night and concentrate on my studies since last month. I have gone to doctors many times and finally a specialist said that this might take up to half a year to recover. I have explained the professor in more detail.
+
+That's why I falling behind a little bit with the assignments for all classes lately. But I am trying my best to finish all them even though it's taking me longer time. The problem I have is really distracting and bothersome. I hope could make you understand my situation. :(
+
+Now, let's get to the business. In order to run the program, just run the cosine_similarity.py file and it will produce an output file called ma3599.output.
+
+Sincerely,
+
+Mir.
